@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>NIHAL CREATION</title>
+<link rel="stylesheet" type="text/css" href="css/styleabout.css">
+</head>
+<body>
+	<header>
+		<div class="main">
+			<div class="logo">
+
+			<img src="logo.jpg">
+		</div>
+			<ul>
+				<li ><a href="main.html">HOME</a></li>
+				<li><a href="walpapers.html">WALPAPERS</a></li>
+				<li class="active"><a href="#">ABOUT</a></li>
+				<li><a href="contact.html">CONTACT</a></li>
+			</ul>
+		</div>
+		<div class="title">
+			<P><font size="10" face="arial black" color="red">==>C</font>
+
+			<font size="5" face="arial black" color="white">REATED BY RAHAMAN.THIS IS MY FIRST APP,SO IF U FIND ANY DRAWBACK MSG ME SO THAT I CAN FIX IT IN NEXT UPDATE.</font></P>
+
+			<P><font size="10" face="arial black" color="red">==>D</font>
+
+			<font size="5" face="arial black" color="white">O FOLLOW ME ON INSTAGRAM .</font></P>
+
+			<P><font size="10" face="arial black" color="red">==>A</font>
+
+			<font size="5" face="arial black" color="white">CKNOWLEDGEMENT:THANKS FOR NO ONE..</font></P>
+
+			<P><font size="10" face="arial black" color="red">==>B</font>
+
+			<font size="5" face="arial black" color="white">UILD TIME:2019:12:21,04:20</font></P>
+
+			<P><font size="10" face="arial black" color="red">==>V</font>
+
+			<font size="5" face="arial black" color="white">ersion:1.0</font></P>
+
+
+			<P><font size="10" face="arial black" color="red">==>T</font>
+
+			<font size="5" face="arial black" color="white">HANKS FOR DOWNLOADING ,AND KEEP SUPPORTING ...</font></P>
+
+			
+	</header>
+
+	</body>
+	</html>
